@@ -1,5 +1,7 @@
 # Spaceborne lidar for vegetation assessment
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19099501.svg)](https://doi.org/10.5281/zenodo.19099501)
+
 This repository contains instructional materials and code for the workshop **“Spaceborne lidar for vegetation assessment.”**  
 The purpose of this project is to introduce students and researchers to the use of **spaceborne lidar data**—specifically ICESat‑2 and GEDI—for vegetation and forest assessment.  
 
