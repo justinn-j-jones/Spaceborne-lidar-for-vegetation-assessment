@@ -23,6 +23,10 @@ authors:
     email: sorin.popescu@ag.tamu.edu
     affiliation: Texas A&M University
     orcid: 'https://orcid.org/0000-0002-8155-8801'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19099501
+    description: The concept DOI of the work.
 repository-code: >-
   https://github.com/justinn-j-jones/Spaceborne-lidar-for-vegetation-assessment/tree/main/notebooks
 url: 'https://lasers.tamu.edu/'
