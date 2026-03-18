@@ -38,7 +38,7 @@ Metadata for citation formats (APA, BibTeX, EndNote, etc.), automatically used b
 
 If you use this notebook or the accompanying code, please cite the archived Zenodo record:
 
-**📌 DOI (Concept DOI): _to be added after first Zenodo release_**
+**📌 DOI: https://doi.org/10.5281/zenodo.19099501**
 
 Citation metadata is also provided in the `CITATION.cff` file, which enables GitHub’s automatic “Cite this repository” feature (APA, BibTeX, EndNote, RIS, etc.).
 
