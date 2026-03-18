@@ -36,13 +36,13 @@ Metadata for citation formats (APA, BibTeX, EndNote, etc.), automatically used b
 
 ---
 
-## 📖 Citation
+## 📖 How to Cite
 
-If you use this notebook or the accompanying code, please cite the archived Zenodo record:
+If you use this notebook, code, or materials in your work, please cite the Zenodo record:
 
-**📌 DOI: https://doi.org/10.5281/zenodo.19099501**
+**Jones, J. J., Melzow, H., & Popescu, S. (2026). *Spaceborne lidar for vegetation assessment*. Zenodo. https://doi.org/10.5281/zenodo.19099501**
 
-Citation metadata is also provided in the `CITATION.cff` file, which enables GitHub’s automatic “Cite this repository” feature (APA, BibTeX, EndNote, RIS, etc.).
+A BibTeX entry and additional formats (APA, MLA, RIS, EndNote) are available through GitHub’s **“Cite this repository”** button or directly on Zenodo.
 
 ---
 
