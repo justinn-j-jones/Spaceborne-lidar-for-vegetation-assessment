@@ -1,0 +1,49 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Spaceborne lidar for vegetation assessment
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Justinn J.
+    family-names: Jones
+    email: justinn.j.jones@tamu.edu
+    affiliation: Texas A&M University
+    orcid: 'https://orcid.org/0009-0007-5032-6657'
+  - given-names: Hailey
+    family-names: Melzow
+    email: hailey.melzow@ag.tamu.edu
+    affiliation: Texas A&M University
+    orcid: 'https://orcid.org/0009-0004-3963-7823'
+  - given-names: Sorin
+    family-names: Popescu
+    email: sorin.popescu@ag.tamu.edu
+    affiliation: Texas A&M University
+    orcid: 'https://orcid.org/0000-0002-8155-8801'
+repository-code: >-
+  https://github.com/justinn-j-jones/Spaceborne-lidar-for-vegetation-assessment/tree/main/notebooks
+url: 'https://lasers.tamu.edu/'
+abstract: >-
+  The overall goal of this workshop is to introduce students
+  to spaceborne lidar data for vegetation assessment. The
+  specific objectives are to understand and utilize powerful
+  tools such as 1) ICESat-2 data products, 2) Google Earth
+  Engine platform, 3) Google Colab for Open Source Data
+  Science, and 4) Machine Learning algorithms for model
+  generation and evaluation. 
+keywords:
+  - spaceborne lidar
+  - ICESat-2
+  - GEDI
+  - forest assessment
+  - forest ecology
+  - machine learning
+  - Google Colab
+  - Google Earth Engine
+  - Open Source Data Science
+license: MIT
+version: 1.0.0
+date-released: '2026-03-18'
